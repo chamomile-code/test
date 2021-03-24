@@ -1,0 +1,7 @@
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\obj\Debug\Server1v3.csprojAssemblyReference.cache
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\obj\Debug\Server1v3.csproj.CoreCompileInputs.cache
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\bin\Debug\Server1v3.exe.config
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\bin\Debug\Server1v3.exe
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\bin\Debug\Server1v3.pdb
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\obj\Debug\Server1v3.exe
+D:\Инст 3 курс\6 семестр\Операционные системы\Курсовая\Server1v3\obj\Debug\Server1v3.pdb
